@@ -1,0 +1,338 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.2.6f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/kangnandong/Desktop/game
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59525
+Successfully changed project path to: /Users/kangnandong/Desktop/game
+/Users/kangnandong/Desktop/game
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 54.75 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.6f1 (8a2143876886)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.2.6f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/kangnandong/Desktop/game/Assets
+GfxDevice: creating device client; threaded=0
+2021-05-18 20:45:25.612 Unity[8864:6938215] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 655 (low power)
+2021-05-18 20:45:25.612 Unity[8864:6938215] Metal devices available: 1
+2021-05-18 20:45:25.612 Unity[8864:6938215] 0: Intel(R) Iris(TM) Plus Graphics 655 (low power)
+2021-05-18 20:45:25.613 Unity[8864:6938215] Using device Intel(R) Iris(TM) Plus Graphics 655 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 655
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.2.6f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.2.6f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.2.6f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56864
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.6f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.003285 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 45.15 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.012 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003294 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 45.17 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.123 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.2.6f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1968 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.0 MB.
+System memory in use after: 152.1 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2417.
+Total: 3.224606 ms (FindLiveObjects: 0.251105 ms CreateObjectMapping: 0.137492 ms MarkObjects: 2.719005 ms  DeleteObjects: 0.115941 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/2D Zombie/Unity Native Animations/Zombie_Normal_Material.mat
+  artifactKey: Guid(97d2e373d7c7c6e41b5aa688e9f85c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Zombie/Unity Native Animations/Zombie_Normal_Material.mat using Guid(97d2e373d7c7c6e41b5aa688e9f85c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2499ecd8390e32749440816ab0123b90') in 1.803823 seconds
+  Import took 1.810723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/JMO Assets/Cartoon FX/Demo/Assets/CFXFree_Demo_Ground.mat
+  artifactKey: Guid(7b43a19f99847f94f8e4ab851c1cb07c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/Demo/Assets/CFXFree_Demo_Ground.mat using Guid(7b43a19f99847f94f8e4ab851c1cb07c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '572932d0dc0c7efb3236834ac723f56f') in 0.318586 seconds
+  Import took 0.323050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/JMO Assets/Cartoon FX/Materials/Electric/CFX_YellowStar.mat
+  artifactKey: Guid(26c880ce3c053d04982d2c8e435fdb95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/Materials/Electric/CFX_YellowStar.mat using Guid(26c880ce3c053d04982d2c8e435fdb95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '894a3b8f63a3965613e9fe659b6fecbc') in 0.031461 seconds
+  Import took 0.036468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 95.429174 seconds.
+  path: Assets/Scripts/BossZombie.cs
+  artifactKey: Guid(0078287d2fd775a47b69158756fdbe13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BossZombie.cs using Guid(0078287d2fd775a47b69158756fdbe13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21ddaabdaa8bc410c7867d0d799fdcec') in 0.612586 seconds
+  Import took 0.618029 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.19 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 126.1 MB.
+System memory in use after: 126.2 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2458.
+Total: 2.671638 ms (FindLiveObjects: 0.398603 ms CreateObjectMapping: 0.104706 ms MarkObjects: 2.150013 ms  DeleteObjects: 0.016986 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 358.793784 seconds.
+  path: Assets/Prefab
+  artifactKey: Guid(ed9bf7c50f2db744b90801761ebd2123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab using Guid(ed9bf7c50f2db744b90801761ebd2123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7cdef681eff7db2430504534dee225e') in 0.004908 seconds
+  Import took 0.012928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.293971 seconds.
+  path: Assets/Prefab/bone.prefab
+  artifactKey: Guid(5b7203c6df93ff742874f2010ef78aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/bone.prefab using Guid(5b7203c6df93ff742874f2010ef78aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a676906261b81ed8d4e27a79d8647530') in 0.384687 seconds
+  Import took 0.390367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Misc/CFX2_BatsCloud.prefab
+  artifactKey: Guid(d4f5579fb5da2f646a0c2bee91bdf6b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Misc/CFX2_BatsCloud.prefab using Guid(d4f5579fb5da2f646a0c2bee91bdf6b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa096d1abfc77bfde288dc89db15c823') in 0.007272 seconds
+  Import took 0.011279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Water/CFX2_Big_Splash (No Collision).prefab
+  artifactKey: Guid(77c69ec12208c4c4380d15e30b6f8f68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Water/CFX2_Big_Splash (No Collision).prefab using Guid(77c69ec12208c4c4380d15e30b6f8f68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dc1f3019f748fcd2852d73ffd3297c0') in 0.006139 seconds
+  Import took 0.014896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.768079 seconds.
+  path: Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Misc/CFX2_BrokenHeart.prefab
+  artifactKey: Guid(bcaff8fc36e95584bb27cc3cf7c6cb14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Misc/CFX2_BrokenHeart.prefab using Guid(bcaff8fc36e95584bb27cc3cf7c6cb14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ea52d3e4b2ae8131a124f7c9f92fbce') in 0.005997 seconds
+  Import took 0.011440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000701 seconds.
+  path: Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Misc/CFX2_BrokenHeart.prefab
+  artifactKey: Guid(bcaff8fc36e95584bb27cc3cf7c6cb14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Misc/CFX2_BrokenHeart.prefab using Guid(bcaff8fc36e95584bb27cc3cf7c6cb14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ea52d3e4b2ae8131a124f7c9f92fbce') in 0.003665 seconds
+  Import took 0.008181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.755715 seconds.
+  path: Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Skull & Ghosts Effects/CFX2_EnemyDeathSkull.prefab
+  artifactKey: Guid(7867af58a6ec48846ae807eb4022fbaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Skull & Ghosts Effects/CFX2_EnemyDeathSkull.prefab using Guid(7867af58a6ec48846ae807eb4022fbaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '147010c9f12711abab779ae77bae18ec') in 0.007046 seconds
+  Import took 0.011000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.057701 seconds.
+  path: Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Pickup Items/CFX2_PickupDiamond2.prefab
+  artifactKey: Guid(aa3fed151f536ee49b583c6a3ac4a2e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Pickup Items/CFX2_PickupDiamond2.prefab using Guid(aa3fed151f536ee49b583c6a3ac4a2e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dd67a9c96468a4abe3526fb6b615e2a') in 0.005579 seconds
+  Import took 0.010416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001679 seconds.
+  path: Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Pickup Items/CFX2_PickupDiamond2.prefab
+  artifactKey: Guid(aa3fed151f536ee49b583c6a3ac4a2e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Pickup Items/CFX2_PickupDiamond2.prefab using Guid(aa3fed151f536ee49b583c6a3ac4a2e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dd67a9c96468a4abe3526fb6b615e2a') in 0.003345 seconds
+  Import took 0.007156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.074219 seconds.
+  path: Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Pickup Items/CFX2_PickupHeart.prefab
+  artifactKey: Guid(3af6f68141914ca43ba39b2403757bd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Pickup Items/CFX2_PickupHeart.prefab using Guid(3af6f68141914ca43ba39b2403757bd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '099b3f7132f3ec2f00be3cc1026a13f1') in 0.009525 seconds
+  Import took 0.014626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.506497 seconds.
+  path: Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Pickup Items/CFX2_PickupSmiley2.prefab
+  artifactKey: Guid(1bc4a709f24528b40984e62f32e398a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Pickup Items/CFX2_PickupSmiley2.prefab using Guid(1bc4a709f24528b40984e62f32e398a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3108cdc5a285964ff63b1de80e02254d') in 0.005773 seconds
+  Import took 0.009921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045330 seconds.
+  path: Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Pickup Items/CFX2_PickupStar.prefab
+  artifactKey: Guid(8fc06027b01064e4f885fd8dd2929310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Pickup Items/CFX2_PickupStar.prefab using Guid(8fc06027b01064e4f885fd8dd2929310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6e22366a5270b9042abafbe3b173f22') in 0.004691 seconds
+  Import took 0.010851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.078401 seconds.
+  path: Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Debris Hits/CFX2_RockHit.prefab
+  artifactKey: Guid(a97415c6b57076f41a6621a7b51d63a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Debris Hits/CFX2_RockHit.prefab using Guid(a97415c6b57076f41a6621a7b51d63a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2db5404abf38ae2ba5daf5862cbd0be') in 0.005690 seconds
+  Import took 0.011486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Misc/CFX2_Wandering_Spirits.prefab
+  artifactKey: Guid(daa6cceb1b087d74aad6916dac2805ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Misc/CFX2_Wandering_Spirits.prefab using Guid(daa6cceb1b087d74aad6916dac2805ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea40236b2f4a80c36440a05a95f83382') in 0.004397 seconds
+  Import took 0.008882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Electric/CFX2_SparksHit_B Sphere.prefab
+  artifactKey: Guid(4961a16ba01e09547be3e1c9d16d5ad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Electric/CFX2_SparksHit_B Sphere.prefab using Guid(4961a16ba01e09547be3e1c9d16d5ad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5a43b3aeb032b93edee251076bb7c84') in 0.011725 seconds
+  Import took 0.018349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.146414 seconds.
+  path: Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Explosions/CFX2_WWExplosion_C.prefab
+  artifactKey: Guid(aa8d6482d70a23445b4b2a928ed1b845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/CFX2 Prefabs/Explosions/CFX2_WWExplosion_C.prefab using Guid(aa8d6482d70a23445b4b2a928ed1b845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0b3c0754e71ffde91b18d0a6fe5d71e') in 0.009253 seconds
+  Import took 0.014972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035034 seconds.
+  path: Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Magic Dark/CFX3_DarkMagicAura_A.prefab
+  artifactKey: Guid(7b56cd9b663f23f429e131a54ec87db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Magic Dark/CFX3_DarkMagicAura_A.prefab using Guid(7b56cd9b663f23f429e131a54ec87db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d54c03d9bbba9fd757c410e0aacb9a5') in 0.004010 seconds
+  Import took 0.007354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007916 seconds.
+  path: Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Magic Dark/CFX3_DarkMagicAura_A.prefab
+  artifactKey: Guid(7b56cd9b663f23f429e131a54ec87db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Magic Dark/CFX3_DarkMagicAura_A.prefab using Guid(7b56cd9b663f23f429e131a54ec87db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d54c03d9bbba9fd757c410e0aacb9a5') in 0.003650 seconds
+  Import took 0.007728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.086065 seconds.
+  path: Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Fire/CFX3_Fire_Explosion.prefab
+  artifactKey: Guid(7e48ba6b1b968764490bbc70b66e3fe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/CFX3 Prefabs/Fire/CFX3_Fire_Explosion.prefab using Guid(7e48ba6b1b968764490bbc70b66e3fe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd1f5f3a1533703ff01f8f72a228128a') in 0.005724 seconds
+  Import took 0.009946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.133395 seconds.
+  path: Assets/JMO Assets/Cartoon FX/Mesh/CFX_Mesh_Circular.FBX
+  artifactKey: Guid(33e6621d2756c044d88f4f9de1a55e7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/Mesh/CFX_Mesh_Circular.FBX using Guid(33e6621d2756c044d88f4f9de1a55e7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e121e7c7b046935ac3914ec498ac0aa') in 0.745171 seconds
+  Import took 0.749835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/JMO Assets/Cartoon FX/Mesh/CFX_Mesh_CircularAngle.FBX
+  artifactKey: Guid(cd0e4347930affd4f81cb4698d17c2ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/Mesh/CFX_Mesh_CircularAngle.FBX using Guid(cd0e4347930affd4f81cb4698d17c2ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfb3972ad523119ec5174a95cafceaef') in 0.015925 seconds
+  Import took 0.019327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/JMO Assets/Cartoon FX/Mesh/CFX_Mesh_Circular2.FBX
+  artifactKey: Guid(645a11d137d568d4bb4e5e97f259a333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/Mesh/CFX_Mesh_Circular2.FBX using Guid(645a11d137d568d4bb4e5e97f259a333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4633df57b0a36173883dbdf9ece46ca') in 0.034728 seconds
+  Import took 0.038632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003677 seconds.
+  path: Assets/JMO Assets/Cartoon FX/Mesh/CFX_Mesh_Circular2.FBX
+  artifactKey: Guid(645a11d137d568d4bb4e5e97f259a333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/Mesh/CFX_Mesh_Circular2.FBX using Guid(645a11d137d568d4bb4e5e97f259a333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4633df57b0a36173883dbdf9ece46ca') in 0.017500 seconds
+  Import took 0.020531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.385505 seconds.
+  path: Assets/JMO Assets/Cartoon FX/Materials/Animated/CFX2_Anim_Bat Multiply.mat
+  artifactKey: Guid(653d8478f72eda9478f558c843ccb9f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/Materials/Animated/CFX2_Anim_Bat Multiply.mat using Guid(653d8478f72eda9478f558c843ccb9f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d6a886c5091fccd5ed3ef99a4856c76') in 0.074714 seconds
+  Import took 0.079816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX2_BrokenHeart Add.mat
+  artifactKey: Guid(53d0980ae6a0d2f4290706eb595fa872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX2_BrokenHeart Add.mat using Guid(53d0980ae6a0d2f4290706eb595fa872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb46910a370da6053d850759129297b5') in 0.089776 seconds
+  Import took 0.092825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX2_Diamond Add.mat
+  artifactKey: Guid(a9b550a3d81ca7845b9fb15672984986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX2_Diamond Add.mat using Guid(a9b550a3d81ca7845b9fb15672984986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8a1ca00d59fad9ac46ab430b0759259') in 0.019824 seconds
+  Import took 0.025516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000489 seconds.
+  path: Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX2_Diamond Outline Add.mat
+  artifactKey: Guid(116dd40afacd54e45a3e276d2c361ef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX2_Diamond Outline Add.mat using Guid(116dd40afacd54e45a3e276d2c361ef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06d6b9babe8d0cf19963a21970fa85ec') in 0.013295 seconds
+  Import took 0.019360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000434 seconds.
+  path: Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX2_Debris_SmallRocks AB 4Frames.mat
+  artifactKey: Guid(d5510d53a0740714d8094e9574e424fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX2_Debris_SmallRocks AB 4Frames.mat using Guid(d5510d53a0740714d8094e9574e424fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b1ea24ef79567202183a6614623e9ab') in 0.035843 seconds
+  Import took 0.040479 seconds .
+
